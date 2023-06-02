@@ -6,4 +6,4 @@
 - 📫  **contact@zain.ovh**
 
 ### Stats for nerds
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=za1nzafar&hide_border=true&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=za1nzafar&hide_border=true&theme=dark)) 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=za1nzafar&layout=compact&theme=dark&hide_border=true" /></a>
